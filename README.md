@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning curiousity(RL), text mining and anomaly detection
+- ✏️ A DSAI master student in TU/e
+- 📫 How to reach me: ljiong1973@hotmail.com
